@@ -2,9 +2,8 @@
 
 ## Intro
 This a relatively simple program designed to implement the character attribute 
-generation method written up by Gulthor, found at on the Paizo forums at [
-The Harrow Character Generation: Attribute Generation Through Fortune-Telling]
-(https://paizo.com/threads/rzs2u1rj?The-Harrow-Character-Generation-Attribute).
+generation method written up by Gulthor, found at on the Paizo forums at 
+[The Harrow Character Generation: Attribute Generation Through Fortune-Telling](https://paizo.com/threads/rzs2u1rj?The-Harrow-Character-Generation-Attribute).
 
 The actual rules are found in this [Google Doc](https://docs.google.com/document/d/1CaRq2iGxVH9qD157K47YqWrz5hce_NfdXYWNBEjgM7E/edit)
 
